@@ -18,3 +18,8 @@ Luego de forkear, se hacen 2 pull requests con sugerencias.
 ![](./assets/img/pull%20requests/fork_02.png)
 [Repository Link](https://rodgarhel.github.io/Adol-33.github.io/)
 
+
+
+
+
+Se hace cambio en texto línea 233 por "Actualmente en curso"
